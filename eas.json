@@ -14,8 +14,7 @@
     "production": {
       "autoIncrement": true,
       "android": {
-        "buildType": "apk"    // Gera o APK em vez do formato AAB
-      }
+        "buildType": "apk"
     }
   },
   "submit": {
